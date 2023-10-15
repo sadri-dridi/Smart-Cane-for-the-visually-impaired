@@ -1,8 +1,9 @@
 # Smart-Cane-for-the-visually-impaired
 Implemented 3 ultra-sonic sensors aiming in front, at the right, and at the left side of the cane to help detect obstacles around and from a 1.5m distance.  Connected a metronome to the distance to make it inversely proportional (the closer the obstacle, the faster the bpm of the metronome).
 
-# Required Material: 
- - Ultra-sonic Sensors: [Ultrasonic Sensor HC-SR04 and Arduino – Complete Guide]([url](https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/))
+  Required Material: 
+ - Ultra-sonic Sensors: https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/
+ - Arduino Board 
 
 To create a smart cane for the visually impaired using three ultrasonic sensors:
 
